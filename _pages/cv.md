@@ -1,64 +1,21 @@
 ---
 layout: archive
-title: "CV"
+title: "Hồ sơ cá nhân (CV)"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## 🎓 Học vấn
+**Học viện Công nghệ Bưu chính Viễn thông (PTIT)**
+* Chuyên ngành: Internet of Things (IoT)
+* Thời gian: 2023 - Nay
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## 🛠 Kỹ năng kỹ thuật
+* **Lập trình:** C/C++ (Arduino), C# (WinForms).
+* **Công cụ & Nền tảng:** Git/GitHub, Proteus, Arduino IDE, Visual Studio.
+* **Kỹ năng cứng:** Thiết kế mạch mô phỏng, xử lý dữ liệu cảm biến, quản lý phiên bản mã nguồn.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 🚀 Dự án tiêu biểu
+### Hệ thống giám sát nhiệt độ LM35
+* Đọc dữ liệu từ cảm biến LM35 và hiển thị đồ thị thời gian thực trên PC.
+* Sử dụng Git để quản lý phiên bản và giải quyết xung đột mã nguồn khi làm việc nhóm.
